@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **REACT & BOOTSTRAP 5**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hankering1716?tab=repositories](https://github.com/Hankering1716?tab=repositories)
 
-- 💬 Ask me about **HTML & CSS & JAVASCRIPT**
+- 💬 Ask me about **HTML & CSS & JAVASCRIPT & BOOTSTRAP**
 
-- ⚡ Fun fact **i like fruits!**
+
 
 
 
