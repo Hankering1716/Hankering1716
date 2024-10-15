@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **REACT & BOOTSTRAP 5**
+- 🌱 I’m currently learning **REACT**
 
 
 - 👨‍💻 All of my projects are available  <a href="https://github.com/Hankering1716?tab=repositories](https://github.com/Hankering1716?tab=repositories">Here</a> 😃
