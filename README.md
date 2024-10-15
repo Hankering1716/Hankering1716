@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hankering1716</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">A passionate Front-end developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hankering1716&label=Profile%20views&color=0e75b6&style=flat" alt="hankering1716" /> </p>
 
@@ -12,12 +12,12 @@
 - 🌱 I’m currently learning **REACT & BOOTSTRAP 5**
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hankering1716?tab=repositories](https://github.com/Hankering1716?tab=repositories]
+- 👨‍💻 All of my projects are available  <a href="https://github.com/Hankering1716?tab=repositories](https://github.com/Hankering1716?tab=repositories">Here</a>
 
 
 - 💬 Ask me about **HTML & CSS & JAVASCRIPT & BOOTSTRAP**
 
-- ➗ Analysing algorithms [https://leetcode.com/u/Hankering1716/]
+- ➗ Analysing algorithms on <a href="https://leetcode.com/u/Hankering1716/">LeetCode</a> 
 
 
 
