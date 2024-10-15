@@ -7,15 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p align="left"><img src="https://th.bing.com/th/id/OIP.jC-wNQHVM7NR2KoGvsjTQgHaHa?rs=1&pid=ImgDetMain">test </p>
+
 
 - 🌱 I’m currently learning **REACT & BOOTSTRAP 5**
 
+
 - 👨‍💻 All of my projects are available at [https://github.com/Hankering1716?tab=repositories](https://github.com/Hankering1716?tab=repositories)
+
 
 - 💬 Ask me about **HTML & CSS & JAVASCRIPT & BOOTSTRAP**
 
-
+- ➗ Analysing algorithms [ https://leetcode.com/u/Hankering1716/ ]
 
 
 
