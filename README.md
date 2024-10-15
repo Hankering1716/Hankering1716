@@ -12,12 +12,12 @@
 - 🌱 I’m currently learning **REACT & BOOTSTRAP 5**
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hankering1716?tab=repositories](https://github.com/Hankering1716?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Hankering1716?tab=repositories](https://github.com/Hankering1716?tab=repositories]
 
 
 - 💬 Ask me about **HTML & CSS & JAVASCRIPT & BOOTSTRAP**
 
-- ➗ Analysing algorithms [ https://leetcode.com/u/Hankering1716/ ]
+- ➗ Analysing algorithms [https://leetcode.com/u/Hankering1716/]
 
 
 
