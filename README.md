@@ -6,6 +6,7 @@
 </p>
 
 ### 🚀 About Me  
+- 🦇 17 Years old
 - 🌱 Currently learning **React & TypeScript**  
 - 🔨 Building small projects to improve my frontend skills  
 - 🎯 Focused on writing clean and modern code  
