@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **REACT & TYPESCRIPT**
 
 
 - 👨‍💻 All of my projects are available here  <a href="https://github.com/Hankering1716?tab=repositories">Here</a> 😃
