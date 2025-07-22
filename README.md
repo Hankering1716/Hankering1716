@@ -1,9 +1,6 @@
-<h1 align="center">Yo</h1>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hankering1716&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 ### 🚀 About Me  
 - 🦇 19 Years old
@@ -30,11 +27,12 @@
   </a>
 </p>
 
-### 🎵 My Hobbies  
-- I love **listening to music** while coding 🎧  
-- Always exploring new technologies and improving my skills  
+
 
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hankering1716&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hankering1716&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
