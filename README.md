@@ -1,11 +1,4 @@
 
-
-
-
-### 🚀 About Me  
-- 🦇 19 Years old
-- 🌱 Currently learning **React & TypeScript**  
-- 🔨 Building small projects to improve my frontend skills  
 - 📂 Check out my projects **[here](https://github.com/Hankering1716?tab=repositories)**  
 
 ### 🛠️ Languages and Tools  
