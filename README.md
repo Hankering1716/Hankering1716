@@ -9,8 +9,6 @@
 - 🦇 19 Years old
 - 🌱 Currently learning **React & TypeScript**  
 - 🔨 Building small projects to improve my frontend skills  
-- 🎯 Focused on writing clean and modern code  
-- 🎵 **Music Lover** – I enjoy listening to music while coding  
 - 📂 Check out my projects **[here](https://github.com/Hankering1716?tab=repositories)**  
 
 ### 🛠️ Languages and Tools  
